@@ -7431,6 +7431,22 @@
     ],
     "timestamp": "May/22/2021 13:55"
   },
+  "CF97751458": {
+    "contest_id": 263,
+    "language": "GNU C++14",
+    "path": "codeforces\\263\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beautiful Matrix",
+    "problem_url": "https://codeforces.com/contest/263/problem/A",
+    "submission_id": "CF97751458",
+    "submission_url": "https://codeforces.com/contest/263/submission/97751458",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/06/2020 10:38"
+  },
   "CF97751636": {
     "contest_id": 281,
     "language": "GNU C++14",
