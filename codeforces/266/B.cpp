@@ -21,6 +21,6 @@ int main()
        else 
          i++;
   }
-  cout<<s<<endl;
+  cout<<s;
   return 0;  
 }
