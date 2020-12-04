@@ -1,4 +1,23 @@
 {
+  "CF100332119": {
+    "contest_id": 266,
+    "language": "GNU C++14",
+    "path": "codeforces\\266\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Queue at the School",
+    "problem_url": "https://codeforces.com/contest/266/problem/B",
+    "submission_id": "CF100332119",
+    "submission_url": "https://codeforces.com/contest/266/submission/100332119",
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "implementation",
+      "shortest paths",
+      "*800"
+    ],
+    "timestamp": "Dec/04/2020 13:49"
+  },
   "CF100356136": {
     "contest_id": 1453,
     "language": "GNU C++14",
