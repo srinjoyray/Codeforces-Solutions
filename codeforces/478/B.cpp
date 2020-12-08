@@ -5,7 +5,7 @@
 #include<math.h>
 #include<ctype.h>
 using namespace std;
- 
+
 long long comb(long long n)
 { return (n*(n-1))/2;
 }
