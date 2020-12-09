@@ -1,4 +1,20 @@
 {
+  "CF100768228": {
+    "contest_id": 285,
+    "language": "GNU C++14",
+    "path": "codeforces\\285\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Find Marble",
+    "problem_url": "https://codeforces.com/contest/285/problem/B",
+    "submission_id": "CF100768228",
+    "submission_url": "https://codeforces.com/contest/285/submission/100768228",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Dec/09/2020 19:08"
+  },
   "CF100769419": {
     "contest_id": 448,
     "language": "GNU C++14",
