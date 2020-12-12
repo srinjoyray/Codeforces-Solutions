@@ -1,4 +1,21 @@
 {
+  "CF100989325": {
+    "contest_id": 330,
+    "language": "GNU C++14",
+    "path": "codeforces\\330\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Road Construction",
+    "problem_url": "https://codeforces.com/contest/330/problem/B",
+    "submission_id": "CF100989325",
+    "submission_url": "https://codeforces.com/contest/330/submission/100989325",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "*1300"
+    ],
+    "timestamp": "Dec/12/2020 11:21"
+  },
   "CF101002903": {
     "contest_id": 122,
     "language": "GNU C++14",
