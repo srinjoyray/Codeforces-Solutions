@@ -1,4 +1,20 @@
 {
+  "CF101102628": {
+    "contest_id": 58,
+    "language": "GNU C++14",
+    "path": "codeforces\\58\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Coins",
+    "problem_url": "https://codeforces.com/contest/58/problem/B",
+    "submission_id": "CF101102628",
+    "submission_url": "https://codeforces.com/contest/58/submission/101102628",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Dec/13/2020 19:08"
+  },
   "CF101105107": {
     "contest_id": 110,
     "language": "GNU C++14",
