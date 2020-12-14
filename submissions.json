@@ -1,4 +1,24 @@
 {
+  "CF101151677": {
+    "contest_id": 514,
+    "language": "GNU C++14",
+    "path": "codeforces\\514\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Han Solo and Lazer Gun",
+    "problem_url": "https://codeforces.com/contest/514/problem/B",
+    "submission_id": "CF101151677",
+    "submission_url": "https://codeforces.com/contest/514/submission/101151677",
+    "tags": [
+      "brute force",
+      "data structures",
+      "geometry",
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Dec/14/2020 13:45"
+  },
   "CF101167883": {
     "contest_id": 66,
     "language": "GNU C++14",
