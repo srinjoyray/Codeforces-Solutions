@@ -1,4 +1,21 @@
 {
+  "CF101653556": {
+    "contest_id": 143,
+    "language": "GNU C++14",
+    "path": "codeforces\\143\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Help Kingdom of Far Far Away 2",
+    "problem_url": "https://codeforces.com/contest/143/problem/B",
+    "submission_id": "CF101653556",
+    "submission_url": "https://codeforces.com/contest/143/submission/101653556",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Dec/18/2020 21:00"
+  },
   "CF101653728": {
     "contest_id": 143,
     "language": "GNU C++14",

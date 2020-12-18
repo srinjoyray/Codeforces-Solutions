@@ -17,7 +17,7 @@ int main()
   if(s[0]=='-')
   { neg=true;
     s.erase(0,1);  
-  }//hello
+  }
   for(int i=0;i<s.size();i++)
   { if(s[i]=='.')
       {flag=1;continue;}
