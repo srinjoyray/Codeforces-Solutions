@@ -1,4 +1,23 @@
 {
+  "CF101643884": {
+    "contest_id": 27,
+    "language": "GNU C++14",
+    "path": "codeforces\\27\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tournament",
+    "problem_url": "https://codeforces.com/contest/27/problem/B",
+    "submission_id": "CF101643884",
+    "submission_url": "https://codeforces.com/contest/27/submission/101643884",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Dec/18/2020 19:15"
+  },
   "CF101646579": {
     "contest_id": 151,
     "language": "GNU C++14",
