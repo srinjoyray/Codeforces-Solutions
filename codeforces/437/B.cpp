@@ -20,7 +20,7 @@ int main()
     { val=func(i);
       if(sum>=val)
        { v.push_back(i);
-         sum-=val;  //test
+         sum-=val;  
        }
       if(sum==0)
         break;
