@@ -1,4 +1,20 @@
 {
+  "CF101833703": {
+    "contest_id": 29,
+    "language": "GNU C++14",
+    "path": "codeforces\\29\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Traffic Lights",
+    "problem_url": "https://codeforces.com/contest/29/problem/B",
+    "submission_id": "CF101833703",
+    "submission_url": "https://codeforces.com/contest/29/submission/101833703",
+    "tags": [
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Dec/20/2020 14:36"
+  },
   "CF101854346": {
     "contest_id": 63,
     "language": "GNU C++14",
