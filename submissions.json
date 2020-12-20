@@ -1,4 +1,21 @@
 {
+  "CF101832703": {
+    "contest_id": 189,
+    "language": "GNU C++14",
+    "path": "codeforces\\189\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Counting Rhombi",
+    "problem_url": "https://codeforces.com/contest/189/problem/B",
+    "submission_id": "CF101832703",
+    "submission_url": "https://codeforces.com/contest/189/submission/101832703",
+    "tags": [
+      "brute force",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Dec/20/2020 14:22"
+  },
   "CF101833703": {
     "contest_id": 29,
     "language": "GNU C++14",
