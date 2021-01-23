@@ -1,4 +1,21 @@
 {
+  "CF105136395": {
+    "contest_id": 1328,
+    "language": "GNU C++14",
+    "path": "codeforces\\1328\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ternary XOR",
+    "problem_url": "https://codeforces.com/contest/1328/problem/C",
+    "submission_id": "CF105136395",
+    "submission_url": "https://codeforces.com/contest/1328/submission/105136395",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jan/23/2021 14:43"
+  },
   "CF105137478": {
     "contest_id": 1352,
     "language": "GNU C++14",
