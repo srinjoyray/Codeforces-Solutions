@@ -1,4 +1,21 @@
 {
+  "CF105214310": {
+    "contest_id": 1433,
+    "language": "GNU C++14",
+    "path": "codeforces\\1433\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Yet Another Bookshelf",
+    "problem_url": "https://codeforces.com/contest/1433/problem/B",
+    "submission_id": "CF105214310",
+    "submission_url": "https://codeforces.com/contest/1433/submission/105214310",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/24/2021 15:41"
+  },
   "CF105229793": {
     "contest_id": 1352,
     "language": "GNU C++14",
