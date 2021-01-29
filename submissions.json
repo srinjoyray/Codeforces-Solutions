@@ -1,4 +1,23 @@
 {
+  "CF105921420": {
+    "contest_id": 1476,
+    "language": "GNU C++14",
+    "path": "codeforces\\1476\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Inflation",
+    "problem_url": "https://codeforces.com/contest/1476/problem/B",
+    "submission_id": "CF105921420",
+    "submission_url": "https://codeforces.com/contest/1476/submission/105921420",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jan/29/2021 21:31"
+  },
   "CF105993775": {
     "contest_id": 1097,
     "language": "GNU C++14",
