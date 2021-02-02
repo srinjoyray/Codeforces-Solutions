@@ -1,4 +1,21 @@
 {
+  "CF106316106": {
+    "contest_id": 1375,
+    "language": "GNU C++14",
+    "path": "codeforces\\1375\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sign Flipping",
+    "problem_url": "https://codeforces.com/contest/1375/problem/A",
+    "submission_id": "CF106316106",
+    "submission_url": "https://codeforces.com/contest/1375/submission/106316106",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Feb/03/2021 01:20"
+  },
   "CF106357486": {
     "contest_id": 1468,
     "language": "GNU C++14",
