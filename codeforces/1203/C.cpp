@@ -13,7 +13,7 @@ using namespace std;
 #define mod 1e9+7
 
 void solve()
-{   int i,j;
+{   lli i,j;
     int n;
     cin>>n;
     lli a[n],hcf=0,count=0;
@@ -21,7 +21,7 @@ void solve()
     fo(i,n) hcf=__gcd(hcf,a[i]);
     // deb(hcf);
       
-    for(i=1;i*1ll*i<=hcf;i++)
+    for(i=1;i*i<=hcf;i++)
     {   if(hcf%i==0)
         {   count++;
             if(i != hcf/i)
@@ -41,4 +41,3 @@ int main()
     }
     return 0;
 }
-
