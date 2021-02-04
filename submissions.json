@@ -1,4 +1,22 @@
 {
+  "CF106432585": {
+    "contest_id": 1272,
+    "language": "GNU C++14",
+    "path": "codeforces\\1272\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yet Another Broken Keyboard",
+    "problem_url": "https://codeforces.com/contest/1272/problem/C",
+    "submission_id": "CF106432585",
+    "submission_url": "https://codeforces.com/contest/1272/submission/106432585",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Feb/04/2021 13:30"
+  },
   "CF106459872": {
     "contest_id": 1350,
     "language": "GNU C++14",
