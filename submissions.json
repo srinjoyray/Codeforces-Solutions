@@ -1,4 +1,21 @@
 {
+  "CF106471181": {
+    "contest_id": 1221,
+    "language": "GNU C++14",
+    "path": "codeforces\\1221\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Perfect Team",
+    "problem_url": "https://codeforces.com/contest/1221/problem/C",
+    "submission_id": "CF106471181",
+    "submission_url": "https://codeforces.com/contest/1221/submission/106471181",
+    "tags": [
+      "binary search",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Feb/04/2021 21:22"
+  },
   "CF106472917": {
     "contest_id": 1203,
     "language": "GNU C++14",
