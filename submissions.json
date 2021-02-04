@@ -1,4 +1,21 @@
 {
+  "CF106473026": {
+    "contest_id": 1203,
+    "language": "GNU C++14",
+    "path": "codeforces\\1203\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Common Divisors",
+    "problem_url": "https://codeforces.com/contest/1203/problem/C",
+    "submission_id": "CF106473026",
+    "submission_url": "https://codeforces.com/contest/1203/submission/106473026",
+    "tags": [
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Feb/04/2021 21:43"
+  },
   "CF106474186": {
     "contest_id": 552,
     "language": "GNU C++14",
