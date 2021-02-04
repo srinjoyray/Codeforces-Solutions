@@ -1,4 +1,21 @@
 {
+  "CF106431345": {
+    "contest_id": 1338,
+    "language": "GNU C++14",
+    "path": "codeforces\\1338\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Powered Addition",
+    "problem_url": "https://codeforces.com/contest/1338/problem/A",
+    "submission_id": "CF106431345",
+    "submission_url": "https://codeforces.com/contest/1338/submission/106431345",
+    "tags": [
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Feb/04/2021 13:12"
+  },
   "CF106432585": {
     "contest_id": 1272,
     "language": "GNU C++14",
