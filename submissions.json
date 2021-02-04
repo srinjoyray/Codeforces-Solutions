@@ -1,4 +1,21 @@
 {
+  "CF106474186": {
+    "contest_id": 552,
+    "language": "GNU C++14",
+    "path": "codeforces\\552\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vanya and Books",
+    "problem_url": "https://codeforces.com/contest/552/problem/B",
+    "submission_id": "CF106474186",
+    "submission_url": "https://codeforces.com/contest/552/submission/106474186",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Feb/04/2021 21:57"
+  },
   "CF106541564": {
     "contest_id": 1481,
     "language": "GNU C++14",
