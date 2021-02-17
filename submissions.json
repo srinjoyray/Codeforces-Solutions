@@ -1,4 +1,21 @@
 {
+  "CF107702768": {
+    "contest_id": 1426,
+    "language": "GNU C++14",
+    "path": "codeforces\\1426\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Floor Number",
+    "problem_url": "https://codeforces.com/contest/1426/problem/A",
+    "submission_id": "CF107702768",
+    "submission_url": "https://codeforces.com/contest/1426/submission/107702768",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/17/2021 20:22"
+  },
   "CF107703590": {
     "contest_id": 1426,
     "language": "GNU C++14",
