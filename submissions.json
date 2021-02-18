@@ -1,4 +1,21 @@
 {
+  "CF107795757": {
+    "contest_id": 1486,
+    "language": "GNU C++14",
+    "path": "codeforces\\1486\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shifting Stacks",
+    "problem_url": "https://codeforces.com/contest/1486/problem/A",
+    "submission_id": "CF107795757",
+    "submission_url": "https://codeforces.com/contest/1486/submission/107795757",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Feb/18/2021 20:18"
+  },
   "CF107946854": {
     "contest_id": 1324,
     "language": "GNU C++14",
