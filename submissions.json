@@ -1,4 +1,21 @@
 {
+  "CF108329632": {
+    "contest_id": 445,
+    "language": "GNU C++14",
+    "path": "codeforces\\445\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "DZY Loves Chessboard",
+    "problem_url": "https://codeforces.com/contest/445/problem/A",
+    "submission_id": "CF108329632",
+    "submission_url": "https://codeforces.com/contest/445/submission/108329632",
+    "tags": [
+      "dfs and similar",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Feb/23/2021 22:48"
+  },
   "CF108426223": {
     "contest_id": 522,
     "language": "GNU C++14",
