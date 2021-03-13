@@ -1,4 +1,22 @@
 {
+  "CF109920894": {
+    "contest_id": 1501,
+    "language": "GNU C++14",
+    "path": "codeforces\\1501\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Napoleon Cake",
+    "problem_url": "https://codeforces.com/contest/1501/problem/B",
+    "submission_id": "CF109920894",
+    "submission_url": "https://codeforces.com/contest/1501/submission/109920894",
+    "tags": [
+      "dp",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Mar/14/2021 00:53"
+  },
   "CF109990498": {
     "contest_id": 1428,
     "language": "GNU C++14",
