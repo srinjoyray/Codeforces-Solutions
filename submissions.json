@@ -1,4 +1,22 @@
 {
+  "CF110460216": {
+    "contest_id": 257,
+    "language": "GNU C++14",
+    "path": "codeforces\\257\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Playing Cubes",
+    "problem_url": "https://codeforces.com/contest/257/problem/B",
+    "submission_id": "CF110460216",
+    "submission_url": "https://codeforces.com/contest/257/submission/110460216",
+    "tags": [
+      "games",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Mar/19/2021 19:54"
+  },
   "CF110460737": {
     "contest_id": 630,
     "language": "GNU C++14",
