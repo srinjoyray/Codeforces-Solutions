@@ -1,4 +1,21 @@
 {
+  "CF112105614": {
+    "contest_id": 1505,
+    "language": "GNU C++14",
+    "path": "codeforces\\1505\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fibonacci Words",
+    "problem_url": "https://codeforces.com/contest/1505/problem/C",
+    "submission_id": "CF112105614",
+    "submission_url": "https://codeforces.com/contest/1505/submission/112105614",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Apr/06/2021 01:31"
+  },
   "CF112105772": {
     "contest_id": 1505,
     "language": "GNU C++14",
