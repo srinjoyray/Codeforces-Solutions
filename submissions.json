@@ -1,4 +1,22 @@
 {
+  "CF112163693": {
+    "contest_id": 1450,
+    "language": "GNU C++14",
+    "path": "codeforces\\1450\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Balls of Steel",
+    "problem_url": "https://codeforces.com/contest/1450/problem/B",
+    "submission_id": "CF112163693",
+    "submission_url": "https://codeforces.com/contest/1450/submission/112163693",
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Apr/06/2021 21:40"
+  },
   "CF112165667": {
     "contest_id": 1445,
     "language": "GNU C++14",
