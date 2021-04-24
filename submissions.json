@@ -1,4 +1,21 @@
 {
+  "CF114098762": {
+    "contest_id": 109,
+    "language": "GNU C++17",
+    "path": "codeforces\\109\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lucky Sum of Digits",
+    "problem_url": "https://codeforces.com/contest/109/problem/A",
+    "submission_id": "CF114098762",
+    "submission_url": "https://codeforces.com/contest/109/submission/114098762",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Apr/24/2021 15:38"
+  },
   "CF114099380": {
     "contest_id": 363,
     "language": "GNU C++17",
