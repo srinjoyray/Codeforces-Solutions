@@ -1,4 +1,22 @@
 {
+  "CF114472522": {
+    "contest_id": 150,
+    "language": "GNU C++17",
+    "path": "codeforces\\150\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Win or Freeze",
+    "problem_url": "https://codeforces.com/contest/150/problem/A",
+    "submission_id": "CF114472522",
+    "submission_url": "https://codeforces.com/contest/150/submission/114472522",
+    "tags": [
+      "games",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Apr/28/2021 22:55"
+  },
   "CF114478004": {
     "contest_id": 300,
     "language": "GNU C++17",
