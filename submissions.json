@@ -1,4 +1,22 @@
 {
+  "CF114470170": {
+    "contest_id": 348,
+    "language": "GNU C++17",
+    "path": "codeforces\\348\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mafia",
+    "problem_url": "https://codeforces.com/contest/348/problem/A",
+    "submission_id": "CF114470170",
+    "submission_url": "https://codeforces.com/contest/348/submission/114470170",
+    "tags": [
+      "binary search",
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Apr/28/2021 22:22"
+  },
   "CF114472522": {
     "contest_id": 150,
     "language": "GNU C++17",
