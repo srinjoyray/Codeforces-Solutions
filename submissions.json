@@ -1,4 +1,24 @@
 {
+  "CF114454678": {
+    "contest_id": 337,
+    "language": "GNU C++17",
+    "path": "codeforces\\337\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Quiz",
+    "problem_url": "https://codeforces.com/contest/337/problem/C",
+    "submission_id": "CF114454678",
+    "submission_url": "https://codeforces.com/contest/337/submission/114454678",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "matrices",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Apr/28/2021 19:19"
+  },
   "CF114459330": {
     "contest_id": 235,
     "language": "GNU C++17",
