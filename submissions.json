@@ -1,4 +1,21 @@
 {
+  "CF114478004": {
+    "contest_id": 300,
+    "language": "GNU C++17",
+    "path": "codeforces\\300\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Beautiful Numbers",
+    "problem_url": "https://codeforces.com/contest/300/problem/C",
+    "submission_id": "CF114478004",
+    "submission_url": "https://codeforces.com/contest/300/submission/114478004",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "*1800"
+    ],
+    "timestamp": "Apr/29/2021 00:17"
+  },
   "CF114503982": {
     "contest_id": 343,
     "language": "GNU C++17",
