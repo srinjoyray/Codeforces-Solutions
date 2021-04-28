@@ -1,4 +1,21 @@
 {
+  "CF114426703": {
+    "contest_id": 375,
+    "language": "GNU C++17",
+    "path": "codeforces\\375\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Divisible by Seven",
+    "problem_url": "https://codeforces.com/contest/375/problem/A",
+    "submission_id": "CF114426703",
+    "submission_url": "https://codeforces.com/contest/375/submission/114426703",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Apr/28/2021 13:27"
+  },
   "CF114449574": {
     "contest_id": 283,
     "language": "GNU C++17",
