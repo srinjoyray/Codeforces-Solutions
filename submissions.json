@@ -1,4 +1,20 @@
 {
+  "CF114507919": {
+    "contest_id": 424,
+    "language": "GNU C++17",
+    "path": "codeforces\\424\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Magic Formulas",
+    "problem_url": "https://codeforces.com/contest/424/problem/C",
+    "submission_id": "CF114507919",
+    "submission_url": "https://codeforces.com/contest/424/submission/114507919",
+    "tags": [
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Apr/29/2021 12:36"
+  },
   "CF114542251": {
     "contest_id": 1519,
     "language": "GNU C++17",
