@@ -1,4 +1,21 @@
 {
+  "CF114786022": {
+    "contest_id": 87,
+    "language": "GNU C++17",
+    "path": "codeforces\\87\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Trains",
+    "problem_url": "https://codeforces.com/contest/87/problem/A",
+    "submission_id": "CF114786022",
+    "submission_url": "https://codeforces.com/contest/87/submission/114786022",
+    "tags": [
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/01/2021 20:43"
+  },
   "CF114787365": {
     "contest_id": 251,
     "language": "GNU C++17",
