@@ -1,4 +1,20 @@
 {
+  "CF114850694": {
+    "contest_id": 216,
+    "language": "GNU C++17",
+    "path": "codeforces\\216\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hiring Staff",
+    "problem_url": "https://codeforces.com/contest/216/problem/C",
+    "submission_id": "CF114850694",
+    "submission_url": "https://codeforces.com/contest/216/submission/114850694",
+    "tags": [
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/02/2021 16:54"
+  },
   "CF114868085": {
     "contest_id": 1515,
     "language": "GNU C++17",
