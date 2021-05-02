@@ -1,4 +1,22 @@
 {
+  "CF114847037": {
+    "contest_id": 135,
+    "language": "GNU C++17",
+    "path": "codeforces\\135\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Replacement",
+    "problem_url": "https://codeforces.com/contest/135/problem/A",
+    "submission_id": "CF114847037",
+    "submission_url": "https://codeforces.com/contest/135/submission/114847037",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "May/02/2021 16:10"
+  },
   "CF114847562": {
     "contest_id": 53,
     "language": "GNU C++17",
