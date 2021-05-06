@@ -1,4 +1,25 @@
 {
+  "CF115390303": {
+    "contest_id": 1360,
+    "language": "GNU C++17",
+    "path": "codeforces\\1360\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Spy-string",
+    "problem_url": "https://codeforces.com/contest/1360/problem/F",
+    "submission_id": "CF115390303",
+    "submission_url": "https://codeforces.com/contest/1360/submission/115390303",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "hashing",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "May/06/2021 12:43"
+  },
   "CF115400400": {
     "contest_id": 1476,
     "language": "GNU C++17",
