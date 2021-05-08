@@ -48,12 +48,8 @@ void solve(){
     int i,j;
     int n,m;
     cin>>n>>m;
-    lli ans=0,temp1,temp2;
-    
-    // x1+x2+x3+x4+....xn=2m
-    temp1=2*m+n-1;
-    temp2=n-1;
-    ans=ncr(temp1,temp2);
+    lli ans=0,r=2*m;
+    ans=ncr(n+r-1,r);
     cout<<ans<<nl;
 }
 
