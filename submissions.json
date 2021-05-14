@@ -1,4 +1,20 @@
 {
+  "CF116185139": {
+    "contest_id": 1281,
+    "language": "GNU C++17",
+    "path": "codeforces\\1281\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Azamon Web Services",
+    "problem_url": "https://codeforces.com/contest/1281/problem/B",
+    "submission_id": "CF116185139",
+    "submission_url": "https://codeforces.com/contest/1281/submission/116185139",
+    "tags": [
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "May/14/2021 19:11"
+  },
   "CF116189138": {
     "contest_id": 1284,
     "language": "GNU C++17",
