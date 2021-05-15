@@ -1,4 +1,21 @@
 {
+  "CF116236330": {
+    "contest_id": 1251,
+    "language": "GNU C++17",
+    "path": "codeforces\\1251\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Minimize The Integer",
+    "problem_url": "https://codeforces.com/contest/1251/problem/C",
+    "submission_id": "CF116236330",
+    "submission_url": "https://codeforces.com/contest/1251/submission/116236330",
+    "tags": [
+      "greedy",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "May/15/2021 12:37"
+  },
   "CF116249955": {
     "contest_id": 1255,
     "language": "GNU C++17",
