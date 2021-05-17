@@ -1,4 +1,22 @@
 {
+  "CF116512536": {
+    "contest_id": 1477,
+    "language": "GNU C++17",
+    "path": "codeforces\\1477\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nezzar and Board",
+    "problem_url": "https://codeforces.com/contest/1477/problem/A",
+    "submission_id": "CF116512536",
+    "submission_url": "https://codeforces.com/contest/1477/submission/116512536",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "May/18/2021 00:34"
+  },
   "CF116534740": {
     "contest_id": 1497,
     "language": "GNU C++17",
