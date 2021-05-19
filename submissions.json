@@ -1,4 +1,22 @@
 {
+  "CF116671137": {
+    "contest_id": 1310,
+    "language": "GNU C++17",
+    "path": "codeforces\\1310\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Recommendations",
+    "problem_url": "https://codeforces.com/contest/1310/problem/A",
+    "submission_id": "CF116671137",
+    "submission_url": "https://codeforces.com/contest/1310/submission/116671137",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "May/19/2021 21:04"
+  },
   "CF116691799": {
     "contest_id": 1175,
     "language": "GNU C++17",
