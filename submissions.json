@@ -1,4 +1,23 @@
 {
+  "CF116663925": {
+    "contest_id": 1343,
+    "language": "GNU C++17",
+    "path": "codeforces\\1343\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Constant Palindrome Sum",
+    "problem_url": "https://codeforces.com/contest/1343/problem/D",
+    "submission_id": "CF116663925",
+    "submission_url": "https://codeforces.com/contest/1343/submission/116663925",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "May/19/2021 19:52"
+  },
   "CF116671137": {
     "contest_id": 1310,
     "language": "GNU C++17",
