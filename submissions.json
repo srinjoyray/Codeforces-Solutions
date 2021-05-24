@@ -7431,6 +7431,26 @@
     ],
     "timestamp": "May/22/2021 13:55"
   },
+  "CF117264240": {
+    "contest_id": 1529,
+    "language": "GNU C++17",
+    "path": "codeforces\\1529\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Parsa's Humongous Tree",
+    "problem_url": "https://codeforces.com/contest/1529/problem/C",
+    "submission_id": "CF117264240",
+    "submission_url": "https://codeforces.com/contest/1529/submission/117264240",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "May/25/2021 00:59"
+  },
   "CF117266857": {
     "contest_id": 1529,
     "language": "GNU C++17",
