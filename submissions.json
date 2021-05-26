@@ -7431,6 +7431,24 @@
     ],
     "timestamp": "May/22/2021 13:55"
   },
+  "CF117372056": {
+    "contest_id": 1442,
+    "language": "GNU C++17",
+    "path": "codeforces\\1442\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Extreme Subtraction",
+    "problem_url": "https://codeforces.com/contest/1442/problem/A",
+    "submission_id": "CF117372056",
+    "submission_url": "https://codeforces.com/contest/1442/submission/117372056",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/26/2021 10:51"
+  },
   "CF117375684": {
     "contest_id": 1405,
     "language": "GNU C++17",
