@@ -7431,6 +7431,24 @@
     ],
     "timestamp": "May/22/2021 13:55"
   },
+  "CF117501780": {
+    "contest_id": 1133,
+    "language": "GNU C++17",
+    "path": "codeforces\\1133\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "K Balanced Teams",
+    "problem_url": "https://codeforces.com/contest/1133/problem/E",
+    "submission_id": "CF117501780",
+    "submission_url": "https://codeforces.com/contest/1133/submission/117501780",
+    "tags": [
+      "dp",
+      "sortings",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "May/27/2021 19:21"
+  },
   "CF117514066": {
     "contest_id": 1472,
     "language": "GNU C++17",
