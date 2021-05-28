@@ -7431,6 +7431,23 @@
     ],
     "timestamp": "May/22/2021 13:55"
   },
+  "CF117599686": {
+    "contest_id": 1526,
+    "language": "GNU C++17",
+    "path": "codeforces\\1526\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mean Inequality",
+    "problem_url": "https://codeforces.com/contest/1526/problem/A",
+    "submission_id": "CF117599686",
+    "submission_url": "https://codeforces.com/contest/1526/submission/117599686",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/28/2021 19:44"
+  },
   "CF117606114": {
     "contest_id": 1526,
     "language": "GNU C++17",
