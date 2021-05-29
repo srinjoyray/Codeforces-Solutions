@@ -7431,6 +7431,22 @@
     ],
     "timestamp": "May/22/2021 13:55"
   },
+  "CF117753988": {
+    "contest_id": 1463,
+    "language": "GNU C++17",
+    "path": "codeforces\\1463\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Busy Robot",
+    "problem_url": "https://codeforces.com/contest/1463/problem/C",
+    "submission_id": "CF117753988",
+    "submission_url": "https://codeforces.com/contest/1463/submission/117753988",
+    "tags": [
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/29/2021 15:00"
+  },
   "CF117759556": {
     "contest_id": 1426,
     "language": "GNU C++17",
