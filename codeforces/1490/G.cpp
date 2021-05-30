@@ -57,8 +57,8 @@ void solve(){
         }
         i=0; j=n-1;
         // deb2(x,count);
-        // count +=lower_bound(pref,pref+n,x)-pref;
-        while(i<=j){
+        count +=lower_bound(pref,pref+n,x)-pref;
+        /*while(i<=j){
             // deb2(i,j);
             if(i==j){
                 count+=i;
@@ -71,7 +71,7 @@ void solve(){
             else if(pref[mid]>=x){
                 j=mid;
             }
-        }
+        }*/
         cout<<count<<" ";
     }cout<<nl;
 }
