@@ -8607,6 +8607,23 @@
     ],
     "timestamp": "Jun/08/2021 15:00"
   },
+  "CF119083510": {
+    "contest_id": 1538,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1538\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Funny Substrings",
+    "problem_url": "https://codeforces.com/contest/1538/problem/E",
+    "submission_id": "CF119083510",
+    "submission_url": "https://codeforces.com/contest/1538/submission/119083510",
+    "tags": [
+      "data structures",
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Jun/10/2021 23:10"
+  },
   "CF119097434": {
     "contest_id": 1538,
     "language": "GNU C++17 (64)",
