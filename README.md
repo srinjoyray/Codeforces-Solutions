@@ -12,14 +12,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-539 | [D - Multiset](https://codeforces.com/contest/1354/problem/D) | [GNU C++17 (64)](./codeforces/1354/D.cpp) | `binary search` `data structures` `*1900` | Jun/14/2021 16:12 | 
-538 | [D - TediousLee](https://codeforces.com/contest/1369/problem/D) | [GNU C++17 (64)](./codeforces/1369/D.cpp) | `dp` `graphs` `greedy` `math` `trees` `*1900` | Jun/14/2021 14:44 | 
-537 | [D - Zigzags](https://codeforces.com/contest/1400/problem/D) | [GNU C++17 (64)](./codeforces/1400/D.cpp) | `brute force` `combinatorics` `data structures` `math` `two pointers` `*1900` | Jun/14/2021 12:44 | 
-536 | [D - Lost Tree](https://codeforces.com/contest/1534/problem/D) | [GNU C++17 (64)](./codeforces/1534/D.cpp) | `constructive algorithms` `interactive` `trees` | Jun/14/2021 10:36 | 
-535 | [C - Little Alawn's Puzzle](https://codeforces.com/contest/1534/problem/C) | [GNU C++17 (64)](./codeforces/1534/C.cpp) | `combinatorics` `dfs and similar` `dp` `dsu` `graphs` `math` | Jun/13/2021 21:32 | 
-534 | [B - Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | [GNU C++17 (64)](./codeforces/1534/B.cpp) | `greedy` `implementation` `math` | Jun/13/2021 21:23 | 
-533 | [A - Colour the Flag](https://codeforces.com/contest/1534/problem/A) | [GNU C++17 (64)](./codeforces/1534/A.cpp) | `brute force` `implementation` | Jun/13/2021 21:10 | 
-532 | [B - Divide and Sum](https://codeforces.com/contest/1444/problem/B) | [GNU C++17 (64)](./codeforces/1444/B.cpp) | `combinatorics` `math` `sortings` `*1900` | Jun/13/2021 11:43 | 
+540 | [D - Multiset](https://codeforces.com/contest/1354/problem/D) | [GNU C++17 (64)](./codeforces/1354/D.cpp) | `binary search` `data structures` `*1900` | Jun/14/2021 16:12 | 
+539 | [D - TediousLee](https://codeforces.com/contest/1369/problem/D) | [GNU C++17 (64)](./codeforces/1369/D.cpp) | `dp` `graphs` `greedy` `math` `trees` `*1900` | Jun/14/2021 14:44 | 
+538 | [D - Zigzags](https://codeforces.com/contest/1400/problem/D) | [GNU C++17 (64)](./codeforces/1400/D.cpp) | `brute force` `combinatorics` `data structures` `math` `two pointers` `*1900` | Jun/14/2021 12:44 | 
+537 | [D - Lost Tree](https://codeforces.com/contest/1534/problem/D) | [GNU C++17 (64)](./codeforces/1534/D.cpp) | `constructive algorithms` `interactive` `trees` | Jun/14/2021 10:36 | 
+536 | [C - Little Alawn's Puzzle](https://codeforces.com/contest/1534/problem/C) | [GNU C++17 (64)](./codeforces/1534/C.cpp) | `combinatorics` `dfs and similar` `dp` `dsu` `graphs` `math` | Jun/13/2021 21:32 | 
+535 | [B - Histogram Ugliness](https://codeforces.com/contest/1534/problem/B) | [GNU C++17 (64)](./codeforces/1534/B.cpp) | `greedy` `implementation` `math` | Jun/13/2021 21:23 | 
+534 | [A - Colour the Flag](https://codeforces.com/contest/1534/problem/A) | [GNU C++17 (64)](./codeforces/1534/A.cpp) | `brute force` `implementation` | Jun/13/2021 21:10 | 
+533 | [B - Divide and Sum](https://codeforces.com/contest/1444/problem/B) | [GNU C++17 (64)](./codeforces/1444/B.cpp) | `combinatorics` `math` `sortings` `*1900` | Jun/13/2021 11:43 | 
+532 | [D - Hexagons](https://codeforces.com/contest/1421/problem/D) | [GNU C++17 (64)](./codeforces/1421/D.cpp) | `brute force` `constructive algorithms` `greedy` `implementation` `math` `shortest paths` `*1900` | Jun/13/2021 11:07 | 
 531 | [D - Rating Compression](https://codeforces.com/contest/1450/problem/D) | [GNU C++17](./codeforces/1450/D.cpp) | `binary search` `data structures` `greedy` `implementation` `two pointers` `*1800` | Jun/08/2021 15:00 | 
 530 | [C - Match Points](https://codeforces.com/contest/1156/problem/C) | [GNU C++17](./codeforces/1156/C.cpp) | `binary search` `greedy` `sortings` `ternary search` `two pointers` `*2000` | Jun/08/2021 13:14 | 
 529 | [D - Rescue Nibel!](https://codeforces.com/contest/1420/problem/D) | [GNU C++17](./codeforces/1420/D.cpp) | `combinatorics` `data structures` `sortings` `*1800` | Jun/08/2021 12:30 | 
