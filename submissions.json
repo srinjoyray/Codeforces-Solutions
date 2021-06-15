@@ -9197,6 +9197,25 @@
     ],
     "timestamp": "Jun/14/2021 16:12"
   },
+  "CF119505871": {
+    "contest_id": 1534,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1534\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Lost Array",
+    "problem_url": "https://codeforces.com/contest/1534/problem/E",
+    "submission_id": "CF119505871",
+    "submission_url": "https://codeforces.com/contest/1534/submission/119505871",
+    "tags": [
+      "graphs",
+      "greedy",
+      "interactive",
+      "shortest paths",
+      "*2300"
+    ],
+    "timestamp": "Jun/15/2021 12:05"
+  },
   "CF119511294": {
     "contest_id": 1384,
     "language": "GNU C++17 (64)",
