@@ -9197,6 +9197,23 @@
     ],
     "timestamp": "Jun/14/2021 16:12"
   },
+  "CF119548765": {
+    "contest_id": 1478,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1478\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Nezzar and Binary String",
+    "problem_url": "https://codeforces.com/contest/1478/problem/E",
+    "submission_id": "CF119548765",
+    "submission_url": "https://codeforces.com/contest/1478/submission/119548765",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Jun/15/2021 21:19"
+  },
   "CF119585624": {
     "contest_id": 1358,
     "language": "GNU C++17 (64)",
