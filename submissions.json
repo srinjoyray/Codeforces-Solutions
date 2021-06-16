@@ -9197,6 +9197,25 @@
     ],
     "timestamp": "Jun/14/2021 16:12"
   },
+  "CF119657131": {
+    "contest_id": 577,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\577\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Modulo Sum",
+    "problem_url": "https://codeforces.com/contest/577/problem/B",
+    "submission_id": "CF119657131",
+    "submission_url": "https://codeforces.com/contest/577/submission/119657131",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dp",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Jun/16/2021 22:54"
+  },
   "CF119690396": {
     "contest_id": 1303,
     "language": "GNU C++17 (64)",
