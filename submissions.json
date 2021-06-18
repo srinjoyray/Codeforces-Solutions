@@ -9197,6 +9197,24 @@
     ],
     "timestamp": "Jun/14/2021 16:12"
   },
+  "CF119783884": {
+    "contest_id": 1313,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1313\\C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Skyscrapers (hard version)",
+    "problem_url": "https://codeforces.com/contest/1313/problem/C2",
+    "submission_id": "CF119783884",
+    "submission_url": "https://codeforces.com/contest/1313/submission/119783884",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Jun/18/2021 16:13"
+  },
   "CF119783947": {
     "contest_id": 1313,
     "language": "GNU C++17 (64)",
