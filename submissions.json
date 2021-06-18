@@ -9197,6 +9197,23 @@
     ],
     "timestamp": "Jun/14/2021 16:12"
   },
+  "CF119804634": {
+    "contest_id": 1537,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1537\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arithmetic Array",
+    "problem_url": "https://codeforces.com/contest/1537/problem/A",
+    "submission_id": "CF119804634",
+    "submission_url": "https://codeforces.com/contest/1537/submission/119804634",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/18/2021 20:07"
+  },
   "CF119813818": {
     "contest_id": 1537,
     "language": "GNU C++17 (64)",
