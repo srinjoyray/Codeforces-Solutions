@@ -1,0 +1,97 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define fo(i,n) for(i=0;i<n;i++)
+#define fo2(i,start,end) for(i=start;i<=end;i++)
+#define rfo(i,n) for(i=n-1;i>=0;i--)
+#define ll long long int
+#define deb(x) cout<<#x<<"="<<x<<endl
+#define deb2(x,y) cout<<#x<<"="<<x<<","<<#y<<"="<<y<<endl
+#define pb push_back
+#define mp make_pair
+#define F first
+#define S second
+#define all(x) x.begin(), x.end()
+#define sortall(x) sort(all(x))
+#define tr(it,a) for(auto it=a.begin(); it!=a.end();it++)
+#define nl '\n'
+#define PI 3.1415926535897932384626
+#define mod 1000000007
+typedef pair<int, int>	pii;
+typedef pair<ll, ll>	pl;
+typedef vector<int>		vi;
+typedef vector<ll>		vl;
+typedef vector<pii>		vpii;
+typedef vector<pl>		vpl;
+map<int,vi> adj;
+map<int,int> vis,dist;
+int n,m,a,b,len;
+bool  reachA,reachB;
+void dfs(int node){
+    // deb(node);
+    vis[node]=1;
+    len++;
+    for(auto child : adj[node]){
+        if(vis[child]==0){
+            if(child==a){
+                reachA=true;
+                continue;
+            }
+            if(child==b){
+                reachB=true;
+                continue;
+            }
+            dfs(child);
+        }
+    }
+}
+void solve(){
+    int i,j;
+    cin>>n>>m>>a>>b;
+    fo2(i,1,n){
+        adj[i].clear();
+    }
+    fo(i,m){
+        int u,v;
+        cin>>u>>v;
+        adj[u].pb(v);
+        adj[v].pb(u);
+    }
+
+    ll ans,countA=0,countB=0;
+    vis.clear();
+    dist.clear();
+    fo2(i,1,n){
+        reachA=false;
+        reachB=false;
+        len=0;
+        if(i!=a && i!=b && vis[i]==0){
+            dfs(i);
+        }
+        // deb2(i,len);
+        if(reachA && reachB){
+            continue;
+        }
+        if(reachA){
+            countA+=len;
+        }
+        if(reachB){
+            countB+=len;
+        }
+    }
+
+    ans=countA*countB;
+
+    cout<<ans<<nl;
+}
+
+int main(){
+    // freopen("input.txt", "r", stdin);
+    // freopen("output.txt", "w", stdout);
+    ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
+    int t=1;
+    cin>>t;
+    while(t--){
+        solve();
+    }
+}
+

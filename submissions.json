@@ -9536,6 +9536,25 @@
     ],
     "timestamp": "Jun/19/2021 13:38"
   },
+  "CF120197745": {
+    "contest_id": 1276,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1276\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Fairs",
+    "problem_url": "https://codeforces.com/contest/1276/problem/B",
+    "submission_id": "CF120197745",
+    "submission_url": "https://codeforces.com/contest/1276/submission/120197745",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1900"
+    ],
+    "timestamp": "Jun/21/2021 15:58"
+  },
   "CF120265641": {
     "contest_id": 1348,
     "language": "GNU C++17 (64)",
