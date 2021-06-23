@@ -9536,6 +9536,25 @@
     ],
     "timestamp": "Jun/19/2021 13:38"
   },
+  "CF120340503": {
+    "contest_id": 1260,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1260\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "A Game with Traps",
+    "problem_url": "https://codeforces.com/contest/1260/problem/D",
+    "submission_id": "CF120340503",
+    "submission_url": "https://codeforces.com/contest/1260/submission/120340503",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Jun/23/2021 11:31"
+  },
   "CF120353749": {
     "contest_id": 1272,
     "language": "GNU C++17 (64)",
