@@ -9536,6 +9536,27 @@
     ],
     "timestamp": "Jun/19/2021 13:38"
   },
+  "CF120651349": {
+    "contest_id": 1541,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1541\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tree Array",
+    "problem_url": "https://codeforces.com/contest/1541/problem/D",
+    "submission_id": "CF120651349",
+    "submission_url": "https://codeforces.com/contest/1541/submission/120651349",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "math",
+      "probabilities",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "Jun/26/2021 13:49"
+  },
   "CF120716854": {
     "contest_id": 1119,
     "language": "GNU C++17 (64)",
