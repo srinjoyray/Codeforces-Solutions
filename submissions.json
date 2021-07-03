@@ -9536,6 +9536,23 @@
     ],
     "timestamp": "Jun/19/2021 13:38"
   },
+  "CF121249857": {
+    "contest_id": 1542,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1542\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Strange Function",
+    "problem_url": "https://codeforces.com/contest/1542/problem/C",
+    "submission_id": "CF121249857",
+    "submission_url": "https://codeforces.com/contest/1542/submission/121249857",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Jul/03/2021 21:57"
+  },
   "CF121323117": {
     "contest_id": 1413,
     "language": "GNU C++17 (64)",
