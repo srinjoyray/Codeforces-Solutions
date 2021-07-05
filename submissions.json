@@ -9536,6 +9536,26 @@
     ],
     "timestamp": "Jun/19/2021 13:38"
   },
+  "CF121389955": {
+    "contest_id": 1506,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1506\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Triangular Paths",
+    "problem_url": "https://codeforces.com/contest/1506/problem/F",
+    "submission_id": "CF121389955",
+    "submission_url": "https://codeforces.com/contest/1506/submission/121389955",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "math",
+      "shortest paths",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "Jul/05/2021 17:02"
+  },
   "CF121394201": {
     "contest_id": 1480,
     "language": "GNU C++17 (64)",
