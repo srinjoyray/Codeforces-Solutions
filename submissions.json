@@ -10675,6 +10675,23 @@
     ],
     "timestamp": "Jul/10/2021 02:38"
   },
+  "CF122403215": {
+    "contest_id": 1311,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1311\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Three Integers",
+    "problem_url": "https://codeforces.com/contest/1311/problem/D",
+    "submission_id": "CF122403215",
+    "submission_url": "https://codeforces.com/contest/1311/submission/122403215",
+    "tags": [
+      "brute force",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Jul/14/2021 10:25"
+  },
   "CF122447165": {
     "contest_id": 1363,
     "language": "GNU C++17 (64)",
