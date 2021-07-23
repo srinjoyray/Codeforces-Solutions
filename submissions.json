@@ -10675,6 +10675,28 @@
     ],
     "timestamp": "Jul/10/2021 02:38"
   },
+  "CF123398956": {
+    "contest_id": 1553,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1553\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Permutation Shift",
+    "problem_url": "https://codeforces.com/contest/1553/problem/E",
+    "submission_id": "CF123398956",
+    "submission_url": "https://codeforces.com/contest/1553/submission/123398956",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Jul/23/2021 12:00"
+  },
   "CF123443688": {
     "contest_id": 1551,
     "language": "GNU C++17 (64)",
