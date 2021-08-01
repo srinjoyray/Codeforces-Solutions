@@ -22,14 +22,10 @@ typedef vector<int>		vi;
 typedef vector<ll>		vl;
 typedef vector<pii>		vpii;
 typedef vector<pl>		vpl;
-const int inf=1e9;
-struct seg{
-    int l,r,w;
-};
+const int INF = 1e9;
+ 
 vector<int> t, ps;
-bool comp(seg &a,seg &b){
-    return a.w<b.w;
-}
+ 
 void push(int v){
 	if (v * 2 + 1 < int(ps.size())){
 		ps[v * 2] += ps[v];
@@ -38,6 +34,7 @@ void push(int v){
 	t[v] += ps[v];
 	ps[v] = 0;
 }
+
 void upd(int v, int l, int r, int L, int R, int val){
 	push(v);
 	if (L >= R)
@@ -55,6 +52,9 @@ void upd(int v, int l, int r, int L, int R, int val){
 int get(){
 	return t[1] + ps[1];
 }
+struct seg{
+	int l, r, w;
+};
 void solve(){
     int i,j;
     int n,m;
@@ -66,12 +66,14 @@ void solve(){
         a[i].r--;
     }
     m--;
-    sort(all(a),comp);
+    sort(a.begin(), a.end(), [](const seg &a, const seg &b){
+		return a.w < b.w;
+	});
     
     t.resize(4 * m);
 	ps.resize(4 * m);
 
-    int ans=inf;
+    int ans = INF;
     j=0;
     fo(i,n){
         while (j < n && get() == 0){
