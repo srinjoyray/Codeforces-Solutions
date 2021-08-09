@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-643 | [E - Assiut Chess](https://codeforces.com/contest/1557/problem/E) | [GNU C++17 (64)](./codeforces/1557/E.cpp) | `brute force` `interactive` `probabilities` `two pointers` | Aug/09/2021 23:11 | 
-642 | [C - Moamen and XOR](https://codeforces.com/contest/1557/problem/C) | [GNU C++17 (64)](./codeforces/1557/C.cpp) | `bitmasks` `combinatorics` `dp` `math` | Aug/09/2021 21:01 | 
+644 | [E - Assiut Chess](https://codeforces.com/contest/1557/problem/E) | [GNU C++17 (64)](./codeforces/1557/E.cpp) | `brute force` `interactive` `probabilities` `two pointers` | Aug/09/2021 23:11 | 
+643 | [C - Moamen and XOR](https://codeforces.com/contest/1557/problem/C) | [GNU C++17 (64)](./codeforces/1557/C.cpp) | `bitmasks` `combinatorics` `dp` `math` | Aug/09/2021 21:01 | 
+642 | [B - Moamen and k-subarrays](https://codeforces.com/contest/1557/problem/B) | [GNU C++17 (64)](./codeforces/1557/B.cpp) | `greedy` `sortings` | Aug/09/2021 20:16 | 
 641 | [D - Captain Flint and Treasure](https://codeforces.com/contest/1388/problem/D) | [GNU C++17 (64)](./codeforces/1388/D.cpp) | `data structures` `dfs and similar` `graphs` `greedy` `implementation` `trees` `*2000` | Jul/10/2021 02:38 | 
 640 | [F - Number of Subsequences](https://codeforces.com/contest/1426/problem/F) | [GNU C++17 (64)](./codeforces/1426/F.cpp) | `combinatorics` `dp` `strings` `*2000` | Jul/09/2021 19:54 | 
 639 | [D2 - RPD and Rap Sheet (Hard Version)](https://codeforces.com/contest/1543/problem/D2) | [GNU C++17 (64)](./codeforces/1543/D2.cpp) | `brute force` `constructive algorithms` `interactive` `math` `*2200` | Jul/08/2021 14:34 | 
