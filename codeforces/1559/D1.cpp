@@ -23,63 +23,117 @@ typedef vector<ll>		vl;
 typedef vector<pii>		vpii;
 typedef vector<pl>		vpl;
 const int N=1e6+10;
-struct UnionFind {
-	int n;
-	vector<int> rank;
-	vector<int> parent;
-	// store other info as required
-	UnionFind(int n) {
-		rank.resize(n);
-		fill(rank.begin(), rank.end(), 0);
-		parent.resize(n);
-		for (int i = 0; i < n; i++) {
-			parent[i] = i;
-		}
-	}
-	int get(int a) {
-		return parent[a] = (parent[a] == a ? a : get(parent[a]));
-	}
-	void merge(int a, int b) {
-		a = get(a);
-		b = get(b);
-		if (a == b) {
-			return;
-		}
-		if (rank[a] == rank[b]) {
-			rank[a]++;
-		}
-		if (rank[a] > rank[b]) {
-			parent[b] = a;
-		} else {
-			parent[a] = b;
-		}
-	}
-};
+vi adj1[N],adj2[N],vis1(N),vis2(N),val1(N),val2(N);
+map<int,vi> mp1,mp2;
+void dfs1(int node,int curr){
+    vis1[node]=1;
+    val1[node]=curr;
+    mp1[curr].pb(node);
+    for(int child : adj1[node]){
+        if(vis1[child]==0){
+            dfs1(child,curr);
+        }
+    }
+}
+void dfs2(int node,int curr){
+    vis2[node]=1;
+    val2[node]=curr;
+    mp2[curr].pb(node);
+    for(int child : adj2[node]){
+        if(vis2[child]==0){
+            dfs2(child,curr);
+        }
+    }
+}
 void solve(){
     int i,j;
     int n,m1,m2;
     cin>>n>>m1>>m2;
-    UnionFind a1(N+1),a2(N+1);
+
     fo(i,m1){
         int u,v;
         cin>>u>>v;
-        a1.merge(u,v);
+        // deb2(u,v);
+        adj1[u].pb(v);
+        adj1[v].pb(u);
     }
     fo(i,m2){
         int u,v;
-        cin>>u>>v;     
-        a2.merge(u,v);
+        cin>>u>>v;
+        // deb2(u,v);
+        adj2[u].pb(v);
+        adj2[v].pb(u);
+    }
+    int curr=1;
+    fo2(i,1,n){
+        if(vis1[i]==0){
+            dfs1(i,curr);
+            curr++;
+        }
+    }
+    curr=1;
+    fo2(i,1,n){
+        if(vis2[i]==0){
+            dfs2(i,curr);
+            curr++;
+        }
     }
     vpii ans;
+    set<pii>se;
     fo2(i,1,n){
         fo2(j,i+1,n){
-            if(a1.get(i)!=a1.get(j) && a2.get(i)!=a2.get(j)){
-                ans.pb({i,j});
-                a1.merge(i,j);
-                a2.merge(i,j);
+            if(val1[i]!=val1[j] && val2[i]!=val2[j]){
+                se.insert({i,j});
             }
         }
     }
+    map<int,int> mp1,mp2;
+    for(auto p : se){
+        pii t1,t2;
+        i=p.F;
+        j=p.S;
+        t1={val1[i],val1[j]};
+        t2={val2[i],val2[j]};
+        if(mp1[t1.F]>0 && mp1[t1.S]>0){
+            continue;
+        }
+        if(mp2[t2.F]>0 && mp2[t2.S]>0){
+            continue;
+        }
+        // deb2(i,j);
+        // deb2(t1.F,t1.S);
+        // deb2(t2.F,t2.S);
+        ans.pb({i,j});
+        mp1[t1.F]++; mp1[t1.S]++;
+        mp2[t2.F]++; mp2[t2.S]++;
+    }
+
+
+    // map<pii,int> mapp1,mapp2;
+    
+    // fo2(i,1,n){
+    //     // deb2(i,val1[i]);
+    //     if(val1[i]!=1){
+    //         continue;
+    //     }
+    //     fo2(j,1,n){
+    //         if(i==j){
+    //             continue;
+    //         }
+    //         if(val1[i]!=val1[j] && val2[i]!=val2[j] ){
+    //             if(mapp1[{val1[i],val1[j]}]==0 && mapp2[{val1[i],val2[j]}]==0){
+    //                 ans.pb({i,j});
+    //                 mapp1[{val1[i],val1[j]}]++;
+    //                 mapp2[{val1[i],val2[j]}]++;
+    //                 // deb2(i,j);
+    //                 // deb2(val1[i],val2[j]);
+    //             }
+    //         }
+    //     }
+        
+    // }
+    
+
     cout<<ans.size()<<nl;
     fo(i,ans.size()){
         cout<<ans[i].F<<" "<<ans[i].S<<nl;
