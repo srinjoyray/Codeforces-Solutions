@@ -12152,6 +12152,27 @@
     ],
     "timestamp": "Aug/09/2021 23:11"
   },
+  "CF126358886": {
+    "contest_id": 1560,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1560\\F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Nearest Beautiful Number (hard version)",
+    "problem_url": "https://codeforces.com/contest/1560/problem/F2",
+    "submission_id": "CF126358886",
+    "submission_url": "https://codeforces.com/contest/1560/submission/126358886",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "Aug/18/2021 22:06"
+  },
   "CF126442764": {
     "contest_id": 1383,
     "language": "GNU C++17 (64)",
