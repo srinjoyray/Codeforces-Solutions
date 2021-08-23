@@ -12607,6 +12607,24 @@
     ],
     "timestamp": "Aug/19/2021 17:50"
   },
+  "CF126781277": {
+    "contest_id": 1209,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1209\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cow and Snacks",
+    "problem_url": "https://codeforces.com/contest/1209/problem/D",
+    "submission_id": "CF126781277",
+    "submission_url": "https://codeforces.com/contest/1209/submission/126781277",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Aug/23/2021 22:59"
+  },
   "CF126848925": {
     "contest_id": 1561,
     "language": "GNU C++17 (64)",
