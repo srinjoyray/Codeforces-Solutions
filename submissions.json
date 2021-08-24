@@ -12607,6 +12607,24 @@
     ],
     "timestamp": "Aug/19/2021 17:50"
   },
+  "CF126848925": {
+    "contest_id": 1561,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1561\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Simply Strange Sort",
+    "problem_url": "https://codeforces.com/contest/1561/problem/A",
+    "submission_id": "CF126848925",
+    "submission_url": "https://codeforces.com/contest/1561/submission/126848925",
+    "tags": [
+      "brute force",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Aug/24/2021 20:12"
+  },
   "CF126864092": {
     "contest_id": 1561,
     "language": "GNU C++17",
