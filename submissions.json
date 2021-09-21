@@ -12607,6 +12607,29 @@
     ],
     "timestamp": "Aug/19/2021 17:50"
   },
+  "CF129486182": {
+    "contest_id": 1574,
+    "language": "GNU C++17",
+    "path": "codeforces\\1574\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Strongest Build",
+    "problem_url": "https://codeforces.com/contest/1574/problem/D",
+    "submission_id": "CF129486182",
+    "submission_url": "https://codeforces.com/contest/1574/submission/129486182",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "hashing",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "Sep/21/2021 16:27"
+  },
   "CF129492438": {
     "contest_id": 1573,
     "language": "GNU C++17",
