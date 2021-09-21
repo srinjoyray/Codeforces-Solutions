@@ -43,7 +43,7 @@ void solve(){
             child[inp].insert(i);
         }
     }
- 
+
     fo2(i,1,n){
         if(parent[i].size()==0){
             se.insert(i);
@@ -74,7 +74,7 @@ void solve(){
     }
     cout<<*max_element(ans+1,ans+n+1)+1<<nl;;
 }
- 
+
 int main(){
     // freopen("input.txt", "r", stdin);
     // freopen("output.txt", "w", stdout);
@@ -86,3 +86,4 @@ int main(){
     }
     
 }
+
