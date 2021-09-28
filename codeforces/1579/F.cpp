@@ -23,7 +23,7 @@ typedef vector<ll>		vl;
 typedef vector<pii>		vpii;
 typedef vector<pl>		vpl;
 const int N=1e6+10;
- 
+
 void solve(){
     int i,j;
     int n,d;
@@ -74,9 +74,9 @@ void solve(){
         s1=s3;
         s3.clear();
     }
- 
+
 }
- 
+
 int main(){
     // freopen("input.txt", "r", stdin);
     // freopen("output.txt", "w", stdout);
@@ -88,4 +88,4 @@ int main(){
     }
     
 }
-// test
+
