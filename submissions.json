@@ -12607,6 +12607,25 @@
     ],
     "timestamp": "Aug/19/2021 17:50"
   },
+  "CF130369557": {
+    "contest_id": 1581,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1581\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Portal",
+    "problem_url": "https://codeforces.com/contest/1581/problem/C",
+    "submission_id": "CF130369557",
+    "submission_url": "https://codeforces.com/contest/1581/submission/130369557",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Sep/30/2021 17:41"
+  },
   "CF130427779": {
     "contest_id": 1581,
     "language": "GNU C++17 (64)",
