@@ -13717,6 +13717,26 @@
     ],
     "timestamp": "Oct/05/2021 20:08"
   },
+  "CF131495818": {
+    "contest_id": 1598,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1598\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Training Session",
+    "problem_url": "https://codeforces.com/contest/1598/problem/D",
+    "submission_id": "CF131495818",
+    "submission_url": "https://codeforces.com/contest/1598/submission/131495818",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "geometry",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Oct/11/2021 00:53"
+  },
   "CF131753134": {
     "contest_id": 1593,
     "language": "GNU C++17 (64)",
