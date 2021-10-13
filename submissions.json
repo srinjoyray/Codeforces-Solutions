@@ -13717,6 +13717,27 @@
     ],
     "timestamp": "Oct/05/2021 20:08"
   },
+  "CF131858399": {
+    "contest_id": 1593,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1593\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Gardener and Tree",
+    "problem_url": "https://codeforces.com/contest/1593/problem/E",
+    "submission_id": "CF131858399",
+    "submission_url": "https://codeforces.com/contest/1593/submission/131858399",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Oct/13/2021 22:53"
+  },
   "CF131897764": {
     "contest_id": 1593,
     "language": "GNU C++17 (64)",
