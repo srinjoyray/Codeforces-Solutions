@@ -13717,6 +13717,24 @@
     ],
     "timestamp": "Oct/05/2021 20:08"
   },
+  "CF131897764": {
+    "contest_id": 1593,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1593\\D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Half of Same",
+    "problem_url": "https://codeforces.com/contest/1593/problem/D2",
+    "submission_id": "CF131897764",
+    "submission_url": "https://codeforces.com/contest/1593/submission/131897764",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "Oct/14/2021 10:57"
+  },
   "CF131997145": {
     "contest_id": 1593,
     "language": "GNU C++17 (64)",
