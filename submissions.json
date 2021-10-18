@@ -13717,6 +13717,24 @@
     ],
     "timestamp": "Oct/05/2021 20:08"
   },
+  "CF132359939": {
+    "contest_id": 1575,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1575\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Divisible by Twenty-Five",
+    "problem_url": "https://codeforces.com/contest/1575/problem/D",
+    "submission_id": "CF132359939",
+    "submission_url": "https://codeforces.com/contest/1575/submission/132359939",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "Oct/18/2021 20:16"
+  },
   "CF132855793": {
     "contest_id": 1582,
     "language": "GNU C++17 (64)",
