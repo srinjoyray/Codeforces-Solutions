@@ -13717,6 +13717,24 @@
     ],
     "timestamp": "Oct/05/2021 20:08"
   },
+  "CF132899919": {
+    "contest_id": 1582,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1582\\F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Korney Korneevich and XOR (easy version)",
+    "problem_url": "https://codeforces.com/contest/1582/problem/F1",
+    "submission_id": "CF132899919",
+    "submission_url": "https://codeforces.com/contest/1582/submission/132899919",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Oct/24/2021 16:58"
+  },
   "CF133046431": {
     "contest_id": 1602,
     "language": "GNU C++17 (64)",
