@@ -13717,6 +13717,26 @@
     ],
     "timestamp": "Oct/05/2021 20:08"
   },
+  "CF133272191": {
+    "contest_id": 1602,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1602\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Frog Traveler",
+    "problem_url": "https://codeforces.com/contest/1602/problem/D",
+    "submission_id": "CF133272191",
+    "submission_url": "https://codeforces.com/contest/1602/submission/133272191",
+    "tags": [
+      "data structures",
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "Oct/27/2021 22:21"
+  },
   "CF133362983": {
     "contest_id": 1362,
     "language": "GNU C++17 (64)",
