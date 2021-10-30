@@ -13717,6 +13717,22 @@
     ],
     "timestamp": "Oct/05/2021 20:08"
   },
+  "CF133618033": {
+    "contest_id": 1604,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1604\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Era",
+    "problem_url": "https://codeforces.com/contest/1604/problem/A",
+    "submission_id": "CF133618033",
+    "submission_url": "https://codeforces.com/contest/1604/submission/133618033",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Oct/30/2021 20:08"
+  },
   "CF133624765": {
     "contest_id": 1604,
     "language": "GNU C++17 (64)",
