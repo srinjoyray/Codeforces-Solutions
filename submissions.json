@@ -13717,6 +13717,23 @@
     ],
     "timestamp": "Oct/05/2021 20:08"
   },
+  "CF133652032": {
+    "contest_id": 1604,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1604\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Moderate Modular Mode",
+    "problem_url": "https://codeforces.com/contest/1604/problem/D",
+    "submission_id": "CF133652032",
+    "submission_url": "https://codeforces.com/contest/1604/submission/133652032",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Oct/30/2021 20:53"
+  },
   "CF133745208": {
     "contest_id": 1486,
     "language": "GNU C++17 (64)",
