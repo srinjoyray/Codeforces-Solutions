@@ -12,25 +12,26 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-819 | [D - Max Median](https://codeforces.com/contest/1486/problem/D) | [GNU C++17 (64)](./codeforces/1486/D.cpp) | `binary search` `data structures` `dp` `*2100` | Nov/08/2021 22:29 | 
-818 | [C - Dijkstra?](https://codeforces.com/contest/20/problem/C) | [GNU C++17 (64)](./codeforces/20/C.cpp) | `graphs` `shortest paths` `*1900` | Nov/07/2021 21:17 | 
-817 | [D2 - Painting the Array II](https://codeforces.com/contest/1480/problem/D2) | [GNU C++17 (64)](./codeforces/1480/D2.cpp) | `data structures` `dp` `greedy` `*2100` | Nov/07/2021 19:41 | 
-816 | [G - To Go Or Not To Go?](https://codeforces.com/contest/1520/problem/G) | [GNU C++17 (64)](./codeforces/1520/G.cpp) | `brute force` `dfs and similar` `graphs` `greedy` `implementation` `shortest paths` `*2200` | Nov/07/2021 13:09 | 
-815 | [E - Assimilation IV](https://codeforces.com/contest/1525/problem/E) | [GNU C++17 (64)](./codeforces/1525/E.cpp) | `combinatorics` `dp` `math` `probabilities` `two pointers` `*2100` | Nov/06/2021 13:11 | 
-814 | [H - Banquet Preparations 2](https://codeforces.com/contest/1607/problem/H) | [GNU C++17 (64)](./codeforces/1607/H.cpp) | `greedy` `sortings` `two pointers` `*2200` | Nov/05/2021 15:50 | 
-813 | [G - Banquet Preparations 1](https://codeforces.com/contest/1607/problem/G) | [GNU C++17 (64)](./codeforces/1607/G.cpp) | `greedy` `*2200` | Nov/03/2021 11:04 | 
-812 | [E - Robot on the Board 1](https://codeforces.com/contest/1607/problem/E) | [GNU C++17 (64)](./codeforces/1607/E.cpp) | `implementation` `*1600` | Nov/02/2021 20:27 | 
-811 | [D - Blue-Red Permutation](https://codeforces.com/contest/1607/problem/D) | [GNU C++17 (64)](./codeforces/1607/D.cpp) | `greedy` `math` `sortings` `*1300` | Nov/02/2021 20:15 | 
-810 | [D - Cut](https://codeforces.com/contest/1516/problem/D) | [GNU C++17 (64)](./codeforces/1516/D.cpp) | `binary search` `data structures` `dp` `graphs` `number theory` `two pointers` `*2100` | Nov/02/2021 11:33 | 
-809 | [E - Non-Decreasing Dilemma](https://codeforces.com/contest/1567/problem/E) | [GNU C++17 (64)](./codeforces/1567/E.cpp) | `data structures` `divide and conquer` `math` `*2200` | Nov/01/2021 20:36 | 
-808 | [C - Bottom-Tier Reversals](https://codeforces.com/contest/1558/problem/C) | [GNU C++17 (64)](./codeforces/1558/C.cpp) | `constructive algorithms` `greedy` `*2000` | Oct/31/2021 23:36 | 
-807 | [E - Paired Payment](https://codeforces.com/contest/1486/problem/E) | [GNU C++17 (64)](./codeforces/1486/E.cpp) | `binary search` `brute force` `constructive algorithms` `dp` `flows` `graphs` `shortest paths` `*2200` | Oct/31/2021 14:40 | 
-806 | [D - Moderate Modular Mode](https://codeforces.com/contest/1604/problem/D) | [GNU C++17 (64)](./codeforces/1604/D.cpp) | `math` `number theory` `*1600` | Oct/30/2021 20:53 | 
-805 | [C - Di-visible Confusion](https://codeforces.com/contest/1604/problem/C) | [GNU C++17 (64)](./codeforces/1604/C.cpp) | `brute force` `greedy` `math` `number theory` `*1300` | Oct/30/2021 20:32 | 
-804 | [B - XOR Specia-LIS-t](https://codeforces.com/contest/1604/problem/B) | [GNU C++17 (64)](./codeforces/1604/B.cpp) | `*1100` | Oct/30/2021 20:14 | 
-803 | [A - Era](https://codeforces.com/contest/1604/problem/A) | [GNU C++17 (64)](./codeforces/1604/A.cpp) | `greedy` `*800` | Oct/30/2021 20:08 | 
-802 | [F - Zero Remainder Sum ](https://codeforces.com/contest/1433/problem/F) | [GNU C++17 (64)](./codeforces/1433/F.cpp) | `dp` `*2100` | Oct/30/2021 18:33 | 
-801 | [E - Carrots for Rabbits](https://codeforces.com/contest/1428/problem/E) | [GNU C++17 (64)](./codeforces/1428/E.cpp) | `binary search` `data structures` `greedy` `math` `sortings` `*2200` | Oct/30/2021 14:53 | 
+820 | [D - Max Median](https://codeforces.com/contest/1486/problem/D) | [GNU C++17 (64)](./codeforces/1486/D.cpp) | `binary search` `data structures` `dp` `*2100` | Nov/08/2021 22:29 | 
+819 | [C - Dijkstra?](https://codeforces.com/contest/20/problem/C) | [GNU C++17 (64)](./codeforces/20/C.cpp) | `graphs` `shortest paths` `*1900` | Nov/07/2021 21:17 | 
+818 | [D2 - Painting the Array II](https://codeforces.com/contest/1480/problem/D2) | [GNU C++17 (64)](./codeforces/1480/D2.cpp) | `data structures` `dp` `greedy` `*2100` | Nov/07/2021 19:41 | 
+817 | [G - To Go Or Not To Go?](https://codeforces.com/contest/1520/problem/G) | [GNU C++17 (64)](./codeforces/1520/G.cpp) | `brute force` `dfs and similar` `graphs` `greedy` `implementation` `shortest paths` `*2200` | Nov/07/2021 13:09 | 
+816 | [E - Assimilation IV](https://codeforces.com/contest/1525/problem/E) | [GNU C++17 (64)](./codeforces/1525/E.cpp) | `combinatorics` `dp` `math` `probabilities` `two pointers` `*2100` | Nov/06/2021 13:11 | 
+815 | [H - Banquet Preparations 2](https://codeforces.com/contest/1607/problem/H) | [GNU C++17 (64)](./codeforces/1607/H.cpp) | `greedy` `sortings` `two pointers` `*2200` | Nov/05/2021 15:50 | 
+814 | [G - Banquet Preparations 1](https://codeforces.com/contest/1607/problem/G) | [GNU C++17 (64)](./codeforces/1607/G.cpp) | `greedy` `*2200` | Nov/03/2021 11:04 | 
+813 | [E - Robot on the Board 1](https://codeforces.com/contest/1607/problem/E) | [GNU C++17 (64)](./codeforces/1607/E.cpp) | `implementation` `*1600` | Nov/02/2021 20:27 | 
+812 | [D - Blue-Red Permutation](https://codeforces.com/contest/1607/problem/D) | [GNU C++17 (64)](./codeforces/1607/D.cpp) | `greedy` `math` `sortings` `*1300` | Nov/02/2021 20:15 | 
+811 | [D - Cut](https://codeforces.com/contest/1516/problem/D) | [GNU C++17 (64)](./codeforces/1516/D.cpp) | `binary search` `data structures` `dp` `graphs` `number theory` `two pointers` `*2100` | Nov/02/2021 11:33 | 
+810 | [E - Non-Decreasing Dilemma](https://codeforces.com/contest/1567/problem/E) | [GNU C++17 (64)](./codeforces/1567/E.cpp) | `data structures` `divide and conquer` `math` `*2200` | Nov/01/2021 20:36 | 
+809 | [C - Bottom-Tier Reversals](https://codeforces.com/contest/1558/problem/C) | [GNU C++17 (64)](./codeforces/1558/C.cpp) | `constructive algorithms` `greedy` `*2000` | Oct/31/2021 23:36 | 
+808 | [E - Paired Payment](https://codeforces.com/contest/1486/problem/E) | [GNU C++17 (64)](./codeforces/1486/E.cpp) | `binary search` `brute force` `constructive algorithms` `dp` `flows` `graphs` `shortest paths` `*2200` | Oct/31/2021 14:40 | 
+807 | [D - Moderate Modular Mode](https://codeforces.com/contest/1604/problem/D) | [GNU C++17 (64)](./codeforces/1604/D.cpp) | `math` `number theory` `*1600` | Oct/30/2021 20:53 | 
+806 | [C - Di-visible Confusion](https://codeforces.com/contest/1604/problem/C) | [GNU C++17 (64)](./codeforces/1604/C.cpp) | `brute force` `greedy` `math` `number theory` `*1300` | Oct/30/2021 20:32 | 
+805 | [B - XOR Specia-LIS-t](https://codeforces.com/contest/1604/problem/B) | [GNU C++17 (64)](./codeforces/1604/B.cpp) | `*1100` | Oct/30/2021 20:14 | 
+804 | [A - Era](https://codeforces.com/contest/1604/problem/A) | [GNU C++17 (64)](./codeforces/1604/A.cpp) | `greedy` `*800` | Oct/30/2021 20:08 | 
+803 | [F - Zero Remainder Sum ](https://codeforces.com/contest/1433/problem/F) | [GNU C++17 (64)](./codeforces/1433/F.cpp) | `dp` `*2100` | Oct/30/2021 18:33 | 
+802 | [E - Carrots for Rabbits](https://codeforces.com/contest/1428/problem/E) | [GNU C++17 (64)](./codeforces/1428/E.cpp) | `binary search` `data structures` `greedy` `math` `sortings` `*2200` | Oct/30/2021 14:53 | 
+801 | [E - Arena](https://codeforces.com/contest/1606/problem/E) | [GNU C++17 (64)](./codeforces/1606/E.cpp) | `combinatorics` `dp` `math` `*2100` | Oct/30/2021 12:10 | 
 800 | [C - Messy](https://codeforces.com/contest/1262/problem/C) | [GNU C++17 (64)](./codeforces/1262/C.cpp) | `constructive algorithms` `implementation` `*1700` | Oct/05/2021 20:08 | 
 799 | [B - Box](https://codeforces.com/contest/1262/problem/B) | [GNU C++17 (64)](./codeforces/1262/B.cpp) | `constructive algorithms` `*1200` | Oct/05/2021 19:40 | 
 798 | [F - Array Stabilization (AND version)](https://codeforces.com/contest/1579/problem/F) | [GNU C++17 (64)](./codeforces/1579/F.cpp) | `brute force` `graphs` `math` `number theory` `shortest paths` `*1700` | Oct/04/2021 18:25 | 
