@@ -13717,6 +13717,27 @@
     ],
     "timestamp": "Oct/05/2021 20:08"
   },
+  "CF134555961": {
+    "contest_id": 1520,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1520\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "To Go Or Not To Go?",
+    "problem_url": "https://codeforces.com/contest/1520/problem/G",
+    "submission_id": "CF134555961",
+    "submission_url": "https://codeforces.com/contest/1520/submission/134555961",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths",
+      "*2200"
+    ],
+    "timestamp": "Nov/07/2021 13:09"
+  },
   "CF134587997": {
     "contest_id": 1480,
     "language": "GNU C++17 (64)",
