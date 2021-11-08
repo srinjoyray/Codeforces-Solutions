@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+801 | [D - Max Median](https://codeforces.com/contest/1486/problem/D) | [GNU C++17 (64)](./codeforces/1486/D.cpp) | `binary search` `data structures` `dp` `*2100` | Nov/08/2021 22:29 | 
 800 | [C - Messy](https://codeforces.com/contest/1262/problem/C) | [GNU C++17 (64)](./codeforces/1262/C.cpp) | `constructive algorithms` `implementation` `*1700` | Oct/05/2021 20:08 | 
 799 | [B - Box](https://codeforces.com/contest/1262/problem/B) | [GNU C++17 (64)](./codeforces/1262/B.cpp) | `constructive algorithms` `*1200` | Oct/05/2021 19:40 | 
 798 | [F - Array Stabilization (AND version)](https://codeforces.com/contest/1579/problem/F) | [GNU C++17 (64)](./codeforces/1579/F.cpp) | `brute force` `graphs` `math` `number theory` `shortest paths` `*1700` | Oct/04/2021 18:25 | 
