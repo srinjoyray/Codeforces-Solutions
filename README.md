@@ -12,15 +12,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-864 | [D - Guess the Permutation](https://codeforces.com/contest/1589/problem/D) | [GNU C++17 (64)](./codeforces/1589/D.cpp) | `binary search` `combinatorics` `interactive` `math` `*2000` | Nov/14/2021 20:08 | 
-863 | [B - Coloring Rectangles](https://codeforces.com/contest/1589/problem/B) | [GNU C++17 (64)](./codeforces/1589/B.cpp) | `greedy` `*1000` | Nov/14/2021 12:03 | 
-862 | [C - Two Arrays](https://codeforces.com/contest/1589/problem/C) | [GNU C++17 (64)](./codeforces/1589/C.cpp) | `greedy` `math` `sortings` `*900` | Nov/14/2021 11:50 | 
-861 | [A - Mathematical Addition](https://codeforces.com/contest/1589/problem/A) | [GNU C++17 (64)](./codeforces/1589/A.cpp) | `math` `*800` | Nov/14/2021 11:47 | 
-860 | [D - Treelabeling](https://codeforces.com/contest/1605/problem/D) | [GNU C++17 (64)](./codeforces/1605/D.cpp) | `bitmasks` `constructive algorithms` `dfs and similar` `games` `greedy` `implementation` `trees` `*2100` | Nov/13/2021 10:50 | 
-859 | [C - Dominant Character](https://codeforces.com/contest/1605/problem/C) | [GNU C++17 (64)](./codeforces/1605/C.cpp) | `brute force` `greedy` `implementation` `strings` `*1400` | Nov/12/2021 21:22 | 
-858 | [B - Reverse Sort](https://codeforces.com/contest/1605/problem/B) | [GNU C++17 (64)](./codeforces/1605/B.cpp) | `greedy` `sortings` `*1000` | Nov/12/2021 20:28 | 
-857 | [A - A.M. Deviation](https://codeforces.com/contest/1605/problem/A) | [GNU C++17 (64)](./codeforces/1605/A.cpp) | `math` `number theory` `*800` | Nov/12/2021 20:10 | 
-856 | [C2 - Errich-Tac-Toe (Hard Version)](https://codeforces.com/contest/1450/problem/C2) | [GNU C++17 (64)](./codeforces/1450/C2.cpp) | `constructive algorithms` `math` `*2300` | Nov/09/2021 20:51 | 
+865 | [D - Guess the Permutation](https://codeforces.com/contest/1589/problem/D) | [GNU C++17 (64)](./codeforces/1589/D.cpp) | `binary search` `combinatorics` `interactive` `math` `*2000` | Nov/14/2021 20:08 | 
+864 | [B - Coloring Rectangles](https://codeforces.com/contest/1589/problem/B) | [GNU C++17 (64)](./codeforces/1589/B.cpp) | `greedy` `*1000` | Nov/14/2021 12:03 | 
+863 | [C - Two Arrays](https://codeforces.com/contest/1589/problem/C) | [GNU C++17 (64)](./codeforces/1589/C.cpp) | `greedy` `math` `sortings` `*900` | Nov/14/2021 11:50 | 
+862 | [A - Mathematical Addition](https://codeforces.com/contest/1589/problem/A) | [GNU C++17 (64)](./codeforces/1589/A.cpp) | `math` `*800` | Nov/14/2021 11:47 | 
+861 | [D - Treelabeling](https://codeforces.com/contest/1605/problem/D) | [GNU C++17 (64)](./codeforces/1605/D.cpp) | `bitmasks` `constructive algorithms` `dfs and similar` `games` `greedy` `implementation` `trees` `*2100` | Nov/13/2021 10:50 | 
+860 | [C - Dominant Character](https://codeforces.com/contest/1605/problem/C) | [GNU C++17 (64)](./codeforces/1605/C.cpp) | `brute force` `greedy` `implementation` `strings` `*1400` | Nov/12/2021 21:22 | 
+859 | [B - Reverse Sort](https://codeforces.com/contest/1605/problem/B) | [GNU C++17 (64)](./codeforces/1605/B.cpp) | `greedy` `sortings` `*1000` | Nov/12/2021 20:28 | 
+858 | [A - A.M. Deviation](https://codeforces.com/contest/1605/problem/A) | [GNU C++17 (64)](./codeforces/1605/A.cpp) | `math` `number theory` `*800` | Nov/12/2021 20:10 | 
+857 | [C2 - Errich-Tac-Toe (Hard Version)](https://codeforces.com/contest/1450/problem/C2) | [GNU C++17 (64)](./codeforces/1450/C2.cpp) | `constructive algorithms` `math` `*2300` | Nov/09/2021 20:51 | 
+856 | [C1 - Errich-Tac-Toe (Easy Version)](https://codeforces.com/contest/1450/problem/C1) | [GNU C++17 (64)](./codeforces/1450/C1.cpp) | `constructive algorithms` `math` `*2100` | Nov/09/2021 20:36 | 
 855 | [D - Max Median](https://codeforces.com/contest/1486/problem/D) | [GNU C++17 (64)](./codeforces/1486/D.cpp) | `binary search` `data structures` `dp` `*2100` | Nov/08/2021 22:29 | 
 854 | [C - Dijkstra?](https://codeforces.com/contest/20/problem/C) | [GNU C++17 (64)](./codeforces/20/C.cpp) | `graphs` `shortest paths` `*1900` | Nov/07/2021 21:17 | 
 853 | [D2 - Painting the Array II](https://codeforces.com/contest/1480/problem/D2) | [GNU C++17 (64)](./codeforces/1480/D2.cpp) | `data structures` `dp` `greedy` `*2100` | Nov/07/2021 19:41 | 
