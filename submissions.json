@@ -14717,6 +14717,22 @@
     ],
     "timestamp": "Nov/08/2021 22:29"
   },
+  "CF135347946": {
+    "contest_id": 1589,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1589\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mathematical Addition",
+    "problem_url": "https://codeforces.com/contest/1589/problem/A",
+    "submission_id": "CF135347946",
+    "submission_url": "https://codeforces.com/contest/1589/submission/135347946",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/14/2021 11:47"
+  },
   "CF135349907": {
     "contest_id": 1589,
     "language": "GNU C++17 (64)",
