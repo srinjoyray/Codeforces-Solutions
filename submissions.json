@@ -14895,6 +14895,23 @@
     ],
     "timestamp": "Nov/14/2021 20:08"
   },
+  "CF136964979": {
+    "contest_id": 1611,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1611\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Make Even",
+    "problem_url": "https://codeforces.com/contest/1611/problem/A",
+    "submission_id": "CF136964979",
+    "submission_url": "https://codeforces.com/contest/1611/submission/136964979",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/26/2021 11:19"
+  },
   "CF136967210": {
     "contest_id": 1611,
     "language": "GNU C++17 (64)",
