@@ -14895,6 +14895,24 @@
     ],
     "timestamp": "Nov/14/2021 20:08"
   },
+  "CF136991647": {
+    "contest_id": 1614,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1614\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Divan and a Store",
+    "problem_url": "https://codeforces.com/contest/1614/problem/A",
+    "submission_id": "CF136991647",
+    "submission_url": "https://codeforces.com/contest/1614/submission/136991647",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Nov/26/2021 16:49"
+  },
   "CF136999302": {
     "contest_id": 1614,
     "language": "GNU C++17 (64)",
