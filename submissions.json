@@ -14895,6 +14895,23 @@
     ],
     "timestamp": "Nov/14/2021 20:08"
   },
+  "CF136967210": {
+    "contest_id": 1611,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1611\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Weights Assignment For Tree Edges",
+    "problem_url": "https://codeforces.com/contest/1611/problem/D",
+    "submission_id": "CF136967210",
+    "submission_url": "https://codeforces.com/contest/1611/submission/136967210",
+    "tags": [
+      "constructive algorithms",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "Nov/26/2021 11:51"
+  },
   "CF136969631": {
     "contest_id": 1611,
     "language": "GNU C++17 (64)",
