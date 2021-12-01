@@ -14895,6 +14895,23 @@
     ],
     "timestamp": "Nov/14/2021 20:08"
   },
+  "CF137629190": {
+    "contest_id": 1613,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1613\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Long Comparison",
+    "problem_url": "https://codeforces.com/contest/1613/problem/A",
+    "submission_id": "CF137629190",
+    "submission_url": "https://codeforces.com/contest/1613/submission/137629190",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Dec/01/2021 20:08"
+  },
   "CF137639347": {
     "contest_id": 1613,
     "language": "GNU C++17 (64)",
