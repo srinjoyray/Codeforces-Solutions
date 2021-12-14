@@ -14895,6 +14895,23 @@
     ],
     "timestamp": "Nov/14/2021 20:08"
   },
+  "CF139292426": {
+    "contest_id": 1618,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1618\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Singers' Tour",
+    "problem_url": "https://codeforces.com/contest/1618/problem/E",
+    "submission_id": "CF139292426",
+    "submission_url": "https://codeforces.com/contest/1618/submission/139292426",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Dec/14/2021 21:46"
+  },
   "CF139485459": {
     "contest_id": 1617,
     "language": "GNU C++17 (64)",
