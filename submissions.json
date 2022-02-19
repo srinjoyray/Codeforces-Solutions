@@ -15523,6 +15523,23 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF146966197": {
+    "contest_id": 1280,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1280\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cut and Paste",
+    "problem_url": "https://codeforces.com/contest/1280/problem/A",
+    "submission_id": "CF146966197",
+    "submission_url": "https://codeforces.com/contest/1280/submission/146966197",
+    "tags": [
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Feb/20/2022 00:10"
+  },
   "CF147040249": {
     "contest_id": 1635,
     "language": "GNU C++17 (64)",
