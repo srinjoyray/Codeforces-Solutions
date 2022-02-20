@@ -15523,6 +15523,27 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF147104964": {
+    "contest_id": 1635,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1635\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Infinite Set",
+    "problem_url": "https://codeforces.com/contest/1635/problem/D",
+    "submission_id": "CF147104964",
+    "submission_url": "https://codeforces.com/contest/1635/submission/147104964",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "math",
+      "matrices",
+      "number theory",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "Feb/20/2022 23:39"
+  },
   "CF147281833": {
     "contest_id": 1644,
     "language": "GNU C++17 (64)",
