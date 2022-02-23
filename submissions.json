@@ -15523,6 +15523,22 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF147486327": {
+    "contest_id": 1642,
+    "language": "GNU C++17",
+    "path": "codeforces\\1642\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Power Walking",
+    "problem_url": "https://codeforces.com/contest/1642/problem/B",
+    "submission_id": "CF147486327",
+    "submission_url": "https://codeforces.com/contest/1642/submission/147486327",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Feb/23/2022 20:37"
+  },
   "CF147492011": {
     "contest_id": 1642,
     "language": "GNU C++17",
