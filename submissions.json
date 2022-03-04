@@ -15523,6 +15523,26 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF148387765": {
+    "contest_id": 1646,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1646\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Factorials and Powers of Two",
+    "problem_url": "https://codeforces.com/contest/1646/problem/C",
+    "submission_id": "CF148387765",
+    "submission_url": "https://codeforces.com/contest/1646/submission/148387765",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Mar/05/2022 00:07"
+  },
   "CF148396004": {
     "contest_id": 1646,
     "language": "GNU C++17 (64)",
