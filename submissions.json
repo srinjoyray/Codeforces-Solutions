@@ -15523,6 +15523,27 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF148869273": {
+    "contest_id": 1650,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1650\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Rescheduling the Exam",
+    "problem_url": "https://codeforces.com/contest/1650/problem/E",
+    "submission_id": "CF148869273",
+    "submission_url": "https://codeforces.com/contest/1650/submission/148869273",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Mar/08/2022 21:05"
+  },
   "CF148969407": {
     "contest_id": 1650,
     "language": "GNU C++17 (64)",
