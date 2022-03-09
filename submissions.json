@@ -15523,6 +15523,24 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF148969407": {
+    "contest_id": 1650,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1650\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Vitaly and Advanced Useless Algorithms",
+    "problem_url": "https://codeforces.com/contest/1650/problem/F",
+    "submission_id": "CF148969407",
+    "submission_url": "https://codeforces.com/contest/1650/submission/148969407",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "Mar/09/2022 15:09"
+  },
   "CF149181980": {
     "contest_id": 1651,
     "language": "GNU C++17 (64)",
