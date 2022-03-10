@@ -15523,6 +15523,23 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF149183122": {
+    "contest_id": 1651,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1651\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prove Him Wrong",
+    "problem_url": "https://codeforces.com/contest/1651/problem/B",
+    "submission_id": "CF149183122",
+    "submission_url": "https://codeforces.com/contest/1651/submission/149183122",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Mar/10/2022 23:57"
+  },
   "CF149186310": {
     "contest_id": 1651,
     "language": "GNU C++17 (64)",
