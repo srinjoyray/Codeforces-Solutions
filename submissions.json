@@ -15523,6 +15523,25 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF149799188": {
+    "contest_id": 1649,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1649\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tyler and Strings",
+    "problem_url": "https://codeforces.com/contest/1649/problem/E",
+    "submission_id": "CF149799188",
+    "submission_url": "https://codeforces.com/contest/1649/submission/149799188",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dp",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Mar/16/2022 15:17"
+  },
   "CF149800322": {
     "contest_id": 1650,
     "language": "GNU C++17 (64)",
