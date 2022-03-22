@@ -15523,6 +15523,26 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF150517908": {
+    "contest_id": 1657,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1657\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "For Gamers. By Gamers.",
+    "problem_url": "https://codeforces.com/contest/1657/problem/D",
+    "submission_id": "CF150517908",
+    "submission_url": "https://codeforces.com/contest/1657/submission/150517908",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "Mar/22/2022 21:44"
+  },
   "CF150629097": {
     "contest_id": 1654,
     "language": "GNU C++17 (64)",
