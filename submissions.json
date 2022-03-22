@@ -15523,6 +15523,23 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF150478977": {
+    "contest_id": 1657,
+    "language": "GNU C++17",
+    "path": "codeforces\\1657\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bracket Sequence Deletion",
+    "problem_url": "https://codeforces.com/contest/1657/problem/C",
+    "submission_id": "CF150478977",
+    "submission_url": "https://codeforces.com/contest/1657/submission/150478977",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Mar/22/2022 20:28"
+  },
   "CF150517908": {
     "contest_id": 1657,
     "language": "GNU C++17 (64)",
