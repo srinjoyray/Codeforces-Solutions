@@ -15523,6 +15523,25 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF150629097": {
+    "contest_id": 1654,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1654\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Potion Brewing Class",
+    "problem_url": "https://codeforces.com/contest/1654/problem/D",
+    "submission_id": "CF150629097",
+    "submission_url": "https://codeforces.com/contest/1654/submission/150629097",
+    "tags": [
+      "dfs and similar",
+      "math",
+      "number theory",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Mar/23/2022 21:32"
+  },
   "CF150638492": {
     "contest_id": 1650,
     "language": "GNU C++17 (64)",
