@@ -15523,6 +15523,23 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF150725891": {
+    "contest_id": 1656,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1656\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Good Pairs",
+    "problem_url": "https://codeforces.com/contest/1656/problem/A",
+    "submission_id": "CF150725891",
+    "submission_url": "https://codeforces.com/contest/1656/submission/150725891",
+    "tags": [
+      "2-sat",
+      "math",
+      "sortings"
+    ],
+    "timestamp": "Mar/24/2022 20:07"
+  },
   "CF150740421": {
     "contest_id": 1656,
     "language": "GNU C++17 (64)",
