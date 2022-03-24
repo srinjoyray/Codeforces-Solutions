@@ -31,10 +31,40 @@ typedef vector<pl>		vpl;
 typedef tree<ll, null_type, less<ll>, rb_tree_tag, tree_order_statistics_node_update > pbds; // find_by_order, order_of_key
 
 const int N=1e6+10;
+map<ll,ll> mapp;
+ll check(ll num){
+    ll sum=1,term=2,rem;
+    while(sum<=num && term<=100){
+        rem = num-sum;
+        if(rem%term==0 && rem>0){
+            return term;
+        }
+        if(rem<=0){
+            break;
+        }
+        sum+=term;
+        term++;
+    }
+    return 0;
+}
 
+ll factorize(long long n)
+{   
+    while(n%2==0){
+        n/=2;
+    }
+    ll root = sqrt(n);
+    for (long long i = 3; i <=root; i += 2) {
+        if (n % i == 0) {
+            return i;
+        }
+    }
+    
+    return n;
+}
 void solve(){
     ll i,j;
-    ll n,temp,rem,sum,ans=0,root;
+    ll n,temp,rem,sum,ans=0;
     cin>>n;
     temp = n;
     while(temp%2==0){
@@ -48,15 +78,35 @@ void solve(){
         cout<<"2\n";
         return;
     }
-    root=sqrt(n);
-    if(temp*(temp-1)/2 < n && temp<2*1e9){
-        ans = temp;
+
+    for(ll i=2;;i*=2){
+        sum = i*(i-1)/2;
+        if(sum>=n){
+            break;
+        }
+        rem = n-sum;
+        if(rem%i==0 && rem>0){
+            cout<<i<<nl;
+            return;
+        }
     }
-    else{
-        ans = (n/temp)*2;
+    ans = check(n);
+
+    if(ans==0){
+        ans = factorize(n);
     }
 
     cout<<ans<<nl;
+
+
+    // fo2(i,1000,100000){
+    //     ll val = check(i);
+    //     if(val!=factorize(i) && val>10){
+    //         deb(i);
+    //         deb2(val,factorize(i));
+    //     }
+        
+    // }
 }
 
 int main(){

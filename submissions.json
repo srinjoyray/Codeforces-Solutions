@@ -15523,6 +15523,24 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF150802214": {
+    "contest_id": 1656,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1656\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "K-good",
+    "problem_url": "https://codeforces.com/contest/1656/problem/D",
+    "submission_id": "CF150802214",
+    "submission_url": "https://codeforces.com/contest/1656/submission/150802214",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Mar/24/2022 22:01"
+  },
   "CF150814715": {
     "contest_id": 1656,
     "language": "GNU C++17 (64)",
