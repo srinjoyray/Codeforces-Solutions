@@ -15523,6 +15523,23 @@
     ],
     "timestamp": "Dec/16/2021 20:18"
   },
+  "CF150740421": {
+    "contest_id": 1656,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces\\1656\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Subtract Operation",
+    "problem_url": "https://codeforces.com/contest/1656/problem/B",
+    "submission_id": "CF150740421",
+    "submission_url": "https://codeforces.com/contest/1656/submission/150740421",
+    "tags": [
+      "data structures",
+      "math",
+      "two pointers"
+    ],
+    "timestamp": "Mar/24/2022 20:20"
+  },
   "CF150749782": {
     "contest_id": 1656,
     "language": "GNU C++17 (64)",
